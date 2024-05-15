@@ -1,0 +1,7 @@
+npm install @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs
+npm install react-native-screens react-native-safe-area-context
+
+npm install react-native-maps
+npm install @react-native-community/geolocation
+
+npm install react-native-maps @react-native-community/geolocation
